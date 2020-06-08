@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Amsterdam';
+  src: url('./assets/fonts/Amsterdam.ttf') format('truetype');
+}
+
+// p {
+//   padding: 0;
+//   margin: 0;
+// }
+
+a {
+  text-decoration: none;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: #f8f8f8;
+  // background: rgb(255,255,255);
+  // background: linear-gradient(180deg, rgba(255,255,255,1) 64%, rgba(232,232,232,1) 100%);
+
+  p {
+    font-family: 'Amsterdam', sans-serif;
+    font-size: 20rem;
+    color: #495057;
+    padding: 0;
+    margin: 0;
+  }
+
+
+  .text-links {
+    span {
+      font-size: 1.3rem;
+      font-weight: 500;
+    }
+  }
+
+  .image-links {
+    img {
+      padding: 3%;
+    }
+  }
+
+  .App-link {
+    color: #42464A;
+  }
+
+}
+
+
+
+
+

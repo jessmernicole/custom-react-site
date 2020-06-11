@@ -21,7 +21,7 @@ a {
   text-align: center;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (min-width: 320px) {
   .header-title {
     font-family: 'Amsterdam', sans-serif;
     font-size: 5rem;
@@ -33,7 +33,7 @@ a {
   .text-links {
     span {
       a {
-        font-size: 0.8rem;
+        font-size: 0.6rem;
         font-weight: 500;
         color: #42464A;
       }

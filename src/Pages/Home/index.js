@@ -1,16 +1,20 @@
 import React from 'react'
 
-import about from '../../assets/images/about.png'
-import portfolio from '../../assets/images/portfolio.svg'
-import exemplar from '../../assets/images/exemplar.svg'
-import './home.scss'
+import homeAbout from '../../assets/images/home-about.jpg'
+
+import './Home.scss'
 
 const Home = () => {
   return (
-    <div className="image-links">
-      <img src={about} alt="about-me-link"/>
-      <img src={portfolio} alt="portfolio-link" style={{ width: 80 }} />
-      <img src={exemplar} alt="exemplar-link" style={{ width: 80 }} />
+    <div className="home-container">
+      <div>
+        <img src={homeAbout} width={1000} alt="home-about image" />
+      </div>
+
+      <div>
+        <p>I’m Jessmer Nicole Norteza - a licensed professional teacher and a freelance writer. I write website content, book reviews, business one-pagers, academic essays, and so on.</p>
+      </div>
+
     </div>
   )
 }

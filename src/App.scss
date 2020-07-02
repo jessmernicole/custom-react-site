@@ -101,6 +101,22 @@ a {
   }
 }
 
+.content-container {
+  position: absolute;
+  z-index: -99;
+  top: 35%;
+  left: 30%;
+  width: 65%;
+  background-image: linear-gradient(transparent 35%, currentColor 40%, currentColor 80%, transparent 95%);
+  -webkit-background-clip: text;
+    background-clip: text;
+    background-attachment: fixed;
+}
+
+.content-container > * {
+  color: transparent;
+}
+
 
 
 

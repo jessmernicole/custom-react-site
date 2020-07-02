@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Amsterdam';
+    src: url('../../assets/fonts/Amsterdam.ttf') format('truetype');
+  }
+
+.logo-text {
+    font-family: 'Amsterdam', sans-serif;
+    font-weight: normal;
+    font-size: 20rem;
+    padding: 0;
+    margin: 0;
+}
+
+.sider-container {
+  // width: 100%;
+  // height: 20%;
+  a {
+    text-decoration: none;
+    color: #42464A;
+  }
+
+  height: 100vh;
+   width: 25%;
+   position: fixed;
+   top: 0;
+   left: 0;
+   background: "#f8f8f8";
+  z-index: 5;
+}
+
+.text-links {
+  text-align: left;
+  padding-left: 20%;
+  a {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #42464A;
+  }
+}
+
+.menu-item {
+  padding: 20px 0
+}
+
+.copyright {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cea1cac.chunk.css",
+    "main.js": "/static/js/main.4c221cf5.chunk.js",
+    "main.js.map": "/static/js/main.4c221cf5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0abb84bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0abb84bb.js.map",
+    "static/js/2.7b1de794.chunk.js": "/static/js/2.7b1de794.chunk.js",
+    "static/js/2.7b1de794.chunk.js.map": "/static/js/2.7b1de794.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d213148d4f4918f0d4f756320b7d6996.js": "/precache-manifest.d213148d4f4918f0d4f756320b7d6996.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0cea1cac.chunk.css.map": "/static/css/main.0cea1cac.chunk.css.map",
+    "static/js/2.7b1de794.chunk.js.LICENSE.txt": "/static/js/2.7b1de794.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Amsterdam.dfbef270.ttf",
+    "static/media/home-about.jpg": "/static/media/home-about.739d98b1.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.2725a915.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.169cd688.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0abb84bb.js",
+    "static/js/2.7b1de794.chunk.js",
+    "static/css/main.0cea1cac.chunk.css",
+    "static/js/main.4c221cf5.chunk.js"
+  ]
+}

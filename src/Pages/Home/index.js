@@ -2,7 +2,7 @@ import React from 'react'
 
 import homeAbout from '../../assets/images/home-about.jpg'
 
-import './Home.scss'
+import './home.scss'
 
 const Home = () => {
   return (
